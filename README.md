@@ -46,7 +46,6 @@ Currently, I am focused on **Quality Assurance (QA)** and **Backend Development*
 
 **Quality Assurance & Management**
 <br>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ISTQB-Certified-brightgreen?style=for-the-badge" />
